@@ -1,0 +1,23 @@
+name: CareerAlert Job Updater
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Job Updater
+        run: |
+          echo "CareerAlert automatic job updater started"
+          echo "Checking job sources..."
