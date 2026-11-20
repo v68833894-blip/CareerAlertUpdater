@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "name": "Google News Government Jobs",
+      "url": "https://news.google.com/rss/search?q=India+government+jobs+recruitment&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Government"
+    },
+    {
+      "name": "Google News Private Jobs",
+      "url": "https://news.google.com/rss/search?q=India+private+company+jobs+recruitment&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Private"
+    },
+    {
+      "name": "Google News Internships",
+      "url": "https://news.google.com/rss/search?q=India+internship+opportunities&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Internship"
+    },
+    {
+      "name": "Google News Apprenticeships",
+      "url": "https://news.google.com/rss/search?q=India+apprenticeship+vacancy&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Apprenticeship"
+    }
+  ]
+}
