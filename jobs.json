@@ -7,7 +7,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 30 Jul 2025 14:58:06 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856056+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319676+00:00"
   },
   {
     "id": "502213145da487e795ee896da7501b8a544d2093cf5d185570c7ab35b0f4362b",
@@ -37,7 +37,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 28 Aug 2024 17:50:03 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253869+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671848+00:00"
   },
   {
     "id": "d755099aad8afead2da92be01592495a25a80e5de1f9a2ef1787c65da75d6056",
@@ -47,7 +47,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 28 Aug 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253885+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671861+00:00"
   },
   {
     "id": "d0a1e6295d9b25274edeaa38e486107ada4fe25cd16472e88cb8d3cb41f4a397",
@@ -117,7 +117,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 23 Jul 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856156+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319771+00:00"
   },
   {
     "id": "d00268f90f4ff56a20870e6f84b6fc1f1b08f4a8c1465fc09b9de3309ce739f1",
@@ -157,7 +157,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 20 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253336+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671692+00:00"
   },
   {
     "id": "99caa3544aba4b30edb9206dc478ada1854c7c96ecef2979855c2b1e122de1c1",
@@ -167,7 +167,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 20 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253744+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671755+00:00"
   },
   {
     "id": "59ab37f8347432b22f9f2a0fdc9848fb845b4a136167fcb9faf23417d96c223b",
@@ -207,7 +207,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 18 Nov 2026 15:51:10 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211454+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442325+00:00"
   },
   {
     "id": "d10092b3a3295a1d7f28c9c2de71ab6f4928bdfd509aa4a21254d69db3179193",
@@ -217,7 +217,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 18 Nov 2026 12:57:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855758+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319419+00:00"
   },
   {
     "id": "bd55a72f05cacdafc600d62d766c7035bfa3fe2b0f399e618c198e4e1de84404",
@@ -237,7 +237,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 18 Nov 2026 11:38:26 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253989+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671966+00:00"
   },
   {
     "id": "c74f2bf25ced62042334e8ea8dc9d90edfff8cfe3ee04e323c10313a90af7d2b",
@@ -247,7 +247,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 18 Nov 2026 11:17:14 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211572+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442450+00:00"
   },
   {
     "id": "890c4dcd21aaea2f7b238f88140811b19d4c495fe233c66d2fcd11f9db671293",
@@ -287,17 +287,27 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210518+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439105+00:00"
   },
   {
     "id": "e5a08545b921a76af05def8c893fc240546d5fa6ed4b0320dfa0c2587a4b835b",
     "title": "FCI Recruitment 2026 for 33,566 Expected Vacancies, Check Eligibility and Exam Details - Adda247",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0X2w5TEhTVUVGX2k1SDkwNTZrSUZwVVJQUVotWW0wcWlRU3pYZWZOQzY4Y2tzeXZ3ZFVmTk1LVWRXc1BQS1B3Z1BsdnRPTTBMelVPLVk1T1BGUmpDbk1z?oc=5",
     "description": "FCI Recruitment 2026 for 33,566 Expected Vacancies, Check Eligibility and Exam Details Adda247",
+    "category": "Private",
+    "source": "Google News Private Jobs",
+    "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.859063+00:00"
+  },
+  {
+    "id": "bb409fce23a51a88e6547221956b95de02cbff0e4e24eb10c5d493bad3514894",
+    "title": "Bihar Government Jobs 2027: Latest Vacancy, Online Form & Recruitment Updates - Careers360",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3VWFkX1RBM1RWTzVNeGhQbjJKNFZWYm1vTng2NjFjU3ZtYmZNU2NURm52TzUwR0dLLXhVZGl4bTFUOFZUN0FiekxOTGFLVzl0Y1l2MVRkcFVOaVZQS1ZCM3Z0cV8?oc=5",
+    "description": "Bihar Government Jobs 2027: Latest Vacancy, Online Form & Recruitment Updates Careers360",
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210557+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441774+00:00"
   },
   {
     "id": "7790f9d4c98974d486a91a0743209cb8129a5cddbe89749eadbf22cb549a6c25",
@@ -347,7 +357,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 18 Nov 2026 05:16:29 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855796+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319456+00:00"
   },
   {
     "id": "844d6c6f7a1ea0aa729f28917dd944337e9d7d4c47513301113bed343ce04528",
@@ -377,7 +387,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 18 Jun 2025 11:49:34 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855995+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319567+00:00"
   },
   {
     "id": "642de7e83fb2229203b683e2d98830ffed49119cca509578496a696dc86e1c58",
@@ -397,7 +407,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253608+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671643+00:00"
   },
   {
     "id": "83f23ec7ed61bdbafdcdcb8429ef3ef4d8707b970843b195bf7b422e5146888f",
@@ -447,7 +457,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Wed, 14 May 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527171+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858730+00:00"
   },
   {
     "id": "cf6fb2b8637978e3014ef773ca681a6646a223ae4e6fbb5406e39c69933f498a",
@@ -477,7 +487,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 10 Jun 2026 11:42:15 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210833+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440947+00:00"
   },
   {
     "id": "e3252d52215c4591e5a2541e949f17a00f67bd32983dfc2a7396e1792160d35d",
@@ -577,7 +587,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253303+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671389+00:00"
   },
   {
     "id": "2d955aec38a1a55983f0f51ca6899c4abc45ba4a0c4fd324f10f2af02d0810d5",
@@ -587,7 +597,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Wed, 04 Jun 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856401+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319988+00:00"
   },
   {
     "id": "66f454aa10535ad479148cfde2c7c05b82f4b5bb688e9cc417dda137b7b6d786",
@@ -627,7 +637,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210885+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441398+00:00"
   },
   {
     "id": "c72f711ce53d9c872c0d3b502b8436a527657fa9c54610c254ff90823bc2076c",
@@ -667,7 +677,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211712+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442533+00:00"
   },
   {
     "id": "3b52c68eb074d71eb6918187d07d8d98519445ab04eb18e9ec8626f2a8b54deb",
@@ -677,7 +687,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527122+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858709+00:00"
   },
   {
     "id": "410539bc1cff8c4983db5d6b3fb5e911dbbaaaeea17e63dc4841cd8675b36ed7",
@@ -717,7 +727,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253592+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671542+00:00"
   },
   {
     "id": "d868e3449f889670b125b6c0d0512805e1b5d967325b40a8dcf45ddf68c37575",
@@ -727,7 +737,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Tue, 28 Nov 2017 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527526+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859201+00:00"
   },
   {
     "id": "9f3bca8a72fcd191efae95d1b36661d435b003e4dfbfb8aeb68cf15dc84f319d",
@@ -757,7 +767,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527138+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858635+00:00"
   },
   {
     "id": "971c891548c5f7e99500ce7551c1068c2b08b7c91eaa125598b37e5a3ce7bc78",
@@ -777,7 +787,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 27 Jan 2026 13:04:07 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253821+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671808+00:00"
   },
   {
     "id": "f8ecb9c36b39521aad49c61630abcf47b8d01e6fd3ef7ef88d964801c3b13f1e",
@@ -817,7 +827,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253577+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671566+00:00"
   },
   {
     "id": "cd67d8714ea75b322ae757175562dab064c749eb9231e06b847510150aded33d",
@@ -837,7 +847,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 24 Nov 2020 09:59:01 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856443+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320029+00:00"
   },
   {
     "id": "cce7ac1f8f9bdb8cf13e6a3c7cf8e8e84b89b7e73b0b2559b83848aa415583d4",
@@ -847,7 +857,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 23 Sep 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856206+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319813+00:00"
   },
   {
     "id": "3d2dc13c17a0b2b7477a11f92e66c5747765eac288f28f0315b398b9ed949f1e",
@@ -867,7 +877,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210722+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440005+00:00"
   },
   {
     "id": "782980787e8fd049c6132ebde8fdf6d00c7d7b5d00890581979a3013e8a24aef",
@@ -877,7 +887,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254226+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672222+00:00"
   },
   {
     "id": "9f66ec3b199976a94c469537b38ad7d7ccfc7b8ce798197700b9369a8bee9fbf",
@@ -897,7 +907,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 21 Jul 2026 11:08:16 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253731+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671655+00:00"
   },
   {
     "id": "d508311801c41a9d2b31a68ab88190abfd99d693b1bf8ebcd255e224ec290b6c",
@@ -907,7 +917,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855983+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319648+00:00"
   },
   {
     "id": "55c00a8cfb4c773e9e1e0dc5f1525fd768153886b6eaa440998d2207845f8d90",
@@ -937,7 +947,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Tue, 20 May 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527397+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858946+00:00"
   },
   {
     "id": "6536b610bea8117c1acdae1fbc500b68d8927c0323738e9b4779431d438d2014",
@@ -947,7 +957,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253761+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671768+00:00"
   },
   {
     "id": "5afa3d37a7407b6f202cc1ea4e13838843dafba5e0467fb353788aa6248ee465",
@@ -957,7 +967,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253836+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671821+00:00"
   },
   {
     "id": "600e882943e3436ee6038386c49f6ed3c8df85736883b9879c89f775bae1bf71",
@@ -967,7 +977,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253353+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671706+00:00"
   },
   {
     "id": "a95c1998bbbf06d5373e2a075f4451fb08383d88d0060e3d3b40881382b022ea",
@@ -997,7 +1007,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 19 May 2026 04:46:47 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253804+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671793+00:00"
   },
   {
     "id": "ea8483400228d5dd6a6df20226b4ab64bedec508218766f199b4a9a24b7e759d",
@@ -1017,7 +1027,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 18 Aug 2026 09:29:54 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253672+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671606+00:00"
   },
   {
     "id": "b490997f49164e7666e140b89e0bcda344c181fb21822f300f0b0e9ac0bd6715",
@@ -1037,7 +1047,17 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 17 Nov 2026 13:36:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855938+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319636+00:00"
+  },
+  {
+    "id": "e48392c6e1b0772026c327362d3c6fd6291a7e0db3db94310a7ad0838355fd8a",
+    "title": "HAL Recruitment 2026 – Apply Offline for 2 Graduate Apprenticeship, Diploma Apprenticeship Posts - FreeJobAlert.Com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDgxb2t3b2VaOWFwZW1EdmRxX1lIVDJqR2JxcFFqTUY0UkVHeXphNE5QM0d6ZW1MSldlX3QzblF0QWhtSjZvdW03T1ZhZDNobm1TWlVTUFctUVNCOGpXYnhCeHYwbTZtNjd0cmVIMV96eDJRaUlzLW56U0ZhT1JNTTF2TmpHUkV3RDVXV3lIalVsZlVXd01xdUgybU5BaUQ2LU1iVlpmLXc?oc=5",
+    "description": "HAL Recruitment 2026 – Apply Offline for 2 Graduate Apprenticeship, Diploma Apprenticeship Posts FreeJobAlert.Com",
+    "category": "Apprenticeship",
+    "source": "Google News Apprenticeships",
+    "published": "Tue, 17 Nov 2026 11:50:25 GMT",
+    "fetchedAt": "2026-11-21T22:43:52.672008+00:00"
   },
   {
     "id": "a504f698e7b0f154e31a6384a9e7923f950c3383a110585ef27b2f077203c8e7",
@@ -1047,7 +1067,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 17 Nov 2026 11:35:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210580+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439357+00:00"
   },
   {
     "id": "6d3aef3e3d846b9c50e30b0fc11a42b66754cf1433283f3a21d30c763e415524",
@@ -1057,7 +1077,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 17 Nov 2026 11:21:34 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253972+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671951+00:00"
   },
   {
     "id": "3ba7755b3436d88c2a76ca808e02a58eb2612716dd0106b36d39c165b81ed280",
@@ -1107,7 +1127,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210664+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439655+00:00"
   },
   {
     "id": "54b06d27202efa7ccb16805721a4d96f457fe1337c3fb259ce236d4e0a5296a7",
@@ -1117,7 +1137,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253775+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671678+00:00"
   },
   {
     "id": "a463afdcf888282c47367719e5a8cbcedfc4a80b28598ff8f8e3031e08784631",
@@ -1147,7 +1167,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Tue, 14 Jan 2025 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527275+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858840+00:00"
   },
   {
     "id": "8795affa3009ab04d67795150598ee088b821a4d0d8bf0e789054842900cec91",
@@ -1157,7 +1177,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210736+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440100+00:00"
   },
   {
     "id": "cd1f9b9cac766ccd4a3a2938472bba4fd43258fb0be7f3a7065b021683f7ecbc",
@@ -1167,7 +1187,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 13 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210932+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441583+00:00"
   },
   {
     "id": "0195faa7630d58a150b9ec5c7826cc26c764b581b6c94173db7c21bc6814ed81",
@@ -1177,7 +1197,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 11 Aug 2026 11:32:59 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253717+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671631+00:00"
   },
   {
     "id": "f2200d62ba628e749b7a155bfc338dba73b905eda4508cb62d3d79bf4daefc5a",
@@ -1197,7 +1217,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 09 Sep 2025 11:08:07 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211777+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442677+00:00"
   },
   {
     "id": "264fac0e9b31da62f57939992ba51b208526c3bc3ad113558d935c3b9a534569",
@@ -1207,7 +1227,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 09 Jun 2015 17:31:17 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856456+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320039+00:00"
   },
   {
     "id": "1db5d658dbaf8485fdcafc915c52e1f271c704b28978c894f2c45e7ca4c929d5",
@@ -1247,7 +1267,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856383+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319745+00:00"
   },
   {
     "id": "7bd6cb4e4dbc6c35054ac7ec6ff5b25f781800d5328767b26aa93a14abc762e2",
@@ -1267,7 +1287,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Tue, 05 Aug 2025 16:10:08 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527320+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858918+00:00"
   },
   {
     "id": "0b9d10173683dc97b237cb0b89f1d735265a397a69b428f96840ababec46c188",
@@ -1277,7 +1297,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Tue, 04 Jul 2023 05:40:28 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211809+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442709+00:00"
   },
   {
     "id": "81da3623d3af549c52cc4f681cef673d3bfab1bf735c0c9263334c95350aff47",
@@ -1297,7 +1317,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253402+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671442+00:00"
   },
   {
     "id": "e26e0dbabef68c92cb34bf87f9ddf6c5f7ed062b2c8670811641ef92d0573e76",
@@ -1307,7 +1327,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Tue, 03 Mar 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253688+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671744+00:00"
   },
   {
     "id": "f77495ad2d8f2afef3b2570d9b6f6708a4bd7e5d3c44ce29ceb929902f9be136",
@@ -1357,7 +1377,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254310+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672236+00:00"
   },
   {
     "id": "d0e9ea1b511211500eb3fed5b0e9cc903dbd146916b6a894abdeea755e33820e",
@@ -1387,7 +1407,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210643+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439455+00:00"
   },
   {
     "id": "7f669edd9dfafa230e94bf65b170184d6b3d58c767cdf64d98b0271bb98844dd",
@@ -1397,7 +1417,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210599+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439557+00:00"
   },
   {
     "id": "578940e59e0514e65500f2596c16a5dfcbe5e0b60ad74cfcc4e5a9dc02fca91a",
@@ -1407,7 +1427,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 29 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253319+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671416+00:00"
   },
   {
     "id": "cfab28a04bb67be765e1b8fbace1982d95629a60bdd11e1f600c723863c6e1b4",
@@ -1447,7 +1467,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 28 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856010+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319663+00:00"
   },
   {
     "id": "144eb3a80d8578c6c0f276319f5b284446f1af3d9c14eb2931c52afb93b042c0",
@@ -1457,7 +1477,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 28 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253451+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671667+00:00"
   },
   {
     "id": "cd3c10191b8c07277e30b47887b97027cfeac6c7a5c100e6f2595b0c5c3bc958",
@@ -1477,7 +1497,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 27 Oct 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856431+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320017+00:00"
   },
   {
     "id": "5e128d35417027f07489786db7bba70f3ba222e5f3cb167179772b5a17076dab",
@@ -1487,7 +1507,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 27 Mar 2025 14:23:07 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856367+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319968+00:00"
   },
   {
     "id": "a72850a8d8a1e1de235002a706f91a9a541be3ed1756edbec5122d05a2f99fba",
@@ -1497,7 +1517,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 27 Mar 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856124+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319731+00:00"
   },
   {
     "id": "22cb2c908b8692d57cfc837efba179b87fab3fa0c636b05f4379c753a485b05b",
@@ -1540,6 +1560,16 @@
     "fetchedAt": "2026-11-20T19:33:53.277870+00:00"
   },
   {
+    "id": "3092ba362db6efc28e493b5b31d7620870b85fee338c9602050dca389dbabea4",
+    "title": "SAIL Apprentice Recruitment 2026 Notification Out for 1110 Vacancies - Career Power",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qT0psNUE1bUtpYzRkQW5kSXFXdXBPRU4yUk5ucmdXZ2h3dms4M0phSDV5aVhkRTU1em9QZW5kNHBZQlNqNjBQbVctbEdHSmZaeEdnemRFNGJUaWdCR1kycmdzSnY3cUtzVEdMcDNoanJvZw?oc=5",
+    "description": "SAIL Apprentice Recruitment 2026 Notification Out for 1110 Vacancies Career Power",
+    "category": "Apprenticeship",
+    "source": "Google News Apprenticeships",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:52.672208+00:00"
+  },
+  {
     "id": "5140c4a1b4891827195fcae5526ac925da42cdc921504c8a8b5125e0e76ff1ca",
     "title": "India has plenty of internship and apprenticeship schemes, but where are the jobs? - Ideas for India",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmdOVE5lYTBKcDNRcDRHYVRsY3NxX2pKSFMzRXZIZEoweUJxWld0VkhnUGZQaF9FNEdYa3RnbE56dlBLc1BwVTVaOHdka2xFRkRNc2tmZHpienZZalBYN0IxejBnRXhtd01qYUtHYUsyM1AyanJkTXgxQ09GQnViUXFJU19xSWdCN3E5V0tXcEh4T2JuN19wQWdZN2RmS1dQY0psQWU0OEQ1QmpYZEhzTjI5ODQxTzE5ajUtQUpCUjYzZC1pS3FwLWhxd3BHaGM?oc=5",
@@ -1547,7 +1577,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 22 Oct 2026 05:20:44 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253214+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671328+00:00"
   },
   {
     "id": "2c8924ea65e92bcf52afa8c73f6f02c7468b0f88f1c37a1b4d520e97567cd00b",
@@ -1567,7 +1597,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 20 Oct 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856177+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319787+00:00"
   },
   {
     "id": "3327ea57e8fa0436b13ea672ed3f3b5e4dc89c3b9c6bf8ea0842bd92910f32e7",
@@ -1577,7 +1607,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 20 Mar 2025 08:45:25 GMT",
-    "fetchedAt": "2026-11-20T19:33:54.437617+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671835+00:00"
   },
   {
     "id": "8d76497504abc9f3402649941095389944493f7ea86e4755dbc79ef04f4d4058",
@@ -1587,7 +1617,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 19 Nov 2026 17:50:46 GMT",
-    "fetchedAt": "2026-11-21T05:25:05.835604+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442402+00:00"
   },
   {
     "id": "f61f9186fd3a2570b39a0c883b5d09395f35b9b5b837384a52202a4265f0377a",
@@ -1597,7 +1627,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 19 Nov 2026 16:35:43 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527585+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859278+00:00"
   },
   {
     "id": "b59a2f886ab8f1373231ea4d7afef67954f91bdecaea23047ce5cb321a6294b4",
@@ -1607,7 +1637,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 19 Nov 2026 15:56:12 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254158+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672103+00:00"
   },
   {
     "id": "6211114ff5bbe7634c49ab9c13cfde643def8320f5414634400fb3cb12045fa3",
@@ -1617,7 +1647,17 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 19 Nov 2026 15:06:02 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527289+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858858+00:00"
+  },
+  {
+    "id": "c44d8ee070b23f4d6e6bd13db21b5b41469e2ba5fd2e17128673ca4c626ea355",
+    "title": "MPLUN Recruitment 2026 – Apply Offline for 10 Assistant, Peon Posts - FreeJobAlert.Com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1pLUi1OTW9WazdYOUxiMVFrTUJmc0htLXpnc3VVdVpSZ2ljT0trX2drTGR1V3JxcGVmaGxMclB3YlV2dWN5Q21DUFVrbGMtbFVvbDRrMXM0Y21GS1FRWXZyZ1RGeE95MlpMN3NKWE9Eclk3UDd0Mm1KSDBjdF9wMG41S1FMbngyVmNZ?oc=5",
+    "description": "MPLUN Recruitment 2026 – Apply Offline for 10 Assistant, Peon Posts FreeJobAlert.Com",
+    "category": "Government",
+    "source": "Google News Government Jobs",
+    "published": "Thu, 19 Nov 2026 14:11:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.442257+00:00"
   },
   {
     "id": "2c04e41e263a9a39bb13e4f8faa85138e43b4009a0a083c8def556bbb2a05a9a",
@@ -1627,7 +1667,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 19 Nov 2026 14:00:25 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254003+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671977+00:00"
   },
   {
     "id": "16435c324bc9130bfd2ada5969220f35cd31d76273948314d32a423a1c2edcfe",
@@ -1637,7 +1677,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 19 Nov 2026 13:52:52 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527443+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859045+00:00"
   },
   {
     "id": "238ae8908b81a608e2635caea8f66a034beb23a2069dc8c66412840739a0b393",
@@ -1667,7 +1707,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 19 Nov 2026 11:43:14 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855918+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319607+00:00"
   },
   {
     "id": "ce68d6b3a3129cbcd03b621b4a7b71a20211f9c5fee86ba167513b3c2db34bf5",
@@ -1697,7 +1737,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 19 Nov 2026 10:25:32 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855865+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319528+00:00"
   },
   {
     "id": "676639b1fd9d97ea56bb8578217dd08f5d8719dd479b5d9f3a2b2fbedd0d970d",
@@ -1717,7 +1757,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 19 Nov 2026 09:00:25 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527306+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858897+00:00"
   },
   {
     "id": "b843e3b11eedc67a851deb0d700a2b2cfe34e0e2bac0735299d0400bbdd183c8",
@@ -1737,7 +1777,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 19 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253157+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671262+00:00"
   },
   {
     "id": "d892fbf18cbd03de3a7614c8158658d444d46f84a059e94beed46930851ddb86",
@@ -1767,7 +1807,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 19 Nov 2026 06:30:28 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211542+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442377+00:00"
   },
   {
     "id": "86ec765fc6843893b94ba0727e429e06fe7541ba3a9728b7c657a09545361f76",
@@ -1787,7 +1827,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 19 Nov 2026 02:19:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855817+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319474+00:00"
   },
   {
     "id": "1818549240f1736344b8d070ab885589229f57f9afdd6c941b6ed5557198bbd6",
@@ -1797,7 +1837,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 18 Sep 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527495+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859144+00:00"
   },
   {
     "id": "0c3910a8290171613eb5f931915d0a565aec2f0262877de89569d3419ac6853b",
@@ -1807,7 +1847,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527069+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858671+00:00"
   },
   {
     "id": "859a3e3b9e7b59acad27e217517af6a1d1bae67cd1e6560f51b6e99b2c6867f7",
@@ -1827,7 +1867,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 18 Jul 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527204+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858791+00:00"
   },
   {
     "id": "8cbd3c6f107bc61727d4fd869160b454d189982e0c61ef566a4dcbc1f271eb02",
@@ -1867,7 +1907,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 17 Apr 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856348+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319948+00:00"
   },
   {
     "id": "f03bc7b299942c57580b286db41d8c64f138a050227ceccaca21185c33dd6e65",
@@ -1877,7 +1917,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 16 Jun 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211035+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441730+00:00"
   },
   {
     "id": "82728e558d86e4c536e5576dc09bf6293131ccea01d1f35351aa56da7157a598",
@@ -1947,7 +1987,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211675+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442491+00:00"
   },
   {
     "id": "678a3575455fdd4c33ba69890242dffe9bd23123bac0c102a40078b6b0e48955",
@@ -1957,7 +1997,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253287+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671376+00:00"
   },
   {
     "id": "91b1b6a94c481d998b19c43a96035acdf2a10b93e55dd8b9d7d268def0ee2e98",
@@ -1967,7 +2007,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254095+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672039+00:00"
   },
   {
     "id": "540f8ed87dbbc6433056042f26c0c872e010c33ab6ec76aafde2423d6db73950",
@@ -1977,7 +2017,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254209+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672129+00:00"
   },
   {
     "id": "3190ac5867806ee112a0448249d22a7edb7d567170284656ceaa0ff5ac210387",
@@ -1990,16 +2030,6 @@
     "fetchedAt": "2026-11-20T19:33:53.276556+00:00"
   },
   {
-    "id": "bb409fce23a51a88e6547221956b95de02cbff0e4e24eb10c5d493bad3514894",
-    "title": "Bihar Government Jobs 2027: Latest Vacancy, Online Form & Recruitment Updates - Careers360",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3VWFkX1RBM1RWTzVNeGhQbjJKNFZWYm1vTng2NjFjU3ZtYmZNU2NURm52TzUwR0dLLXhVZGl4bTFUOFZUN0FiekxOTGFLVzl0Y1l2MVRkcFVOaVZQS1ZCM3Z0cV8?oc=5",
-    "description": "Bihar Government Jobs 2027: Latest Vacancy, Online Form & Recruitment Updates Careers360",
-    "category": "Government",
-    "source": "Google News Government Jobs",
-    "published": "Thu, 11 Sep 2025 11:15:43 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211763+00:00"
-  },
-  {
     "id": "a40ca150fa152469e4755b045c23ff42afebfca7cb0567b6958697b01813c68b",
     "title": "Where the Jobs Are in 2025: Hiring Trends Across India - India Briefing",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHNMWC1ucUFab2JUZHBRU1ZHRHU4ZlhSZC13VDVJQkRMUm9sSTFUc0QweDhBUkl0MXN2Mjh6X3FMcG0zQmZsQ1RobTlib3hndm1ySDJOUWJWWDZlWDc1ak9WdFZsSExHTWo4Y05kTFNwazJFUjlnUVVtaGg4dW56dDYxVG0xclVRcERZclRHcW1vRkZ6RDFlLXRNaHhSekl2a01CTUZrVVFFblNkTC1JU2ZENmVwdjB6emNZRA?oc=5",
@@ -2007,7 +2037,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 11 Sep 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527219+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858772+00:00"
   },
   {
     "id": "5cbad03e814abee87048dc2b3ff879fa074155f58a794701c7f0b49a4daacfd7",
@@ -2027,7 +2057,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253511+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671593+00:00"
   },
   {
     "id": "013acac99b76ec266bcb64e9e9b7ce8e05290f4d83d6fcc8f8bfc3c23122b64b",
@@ -2037,7 +2067,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 08 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253419+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671503+00:00"
   },
   {
     "id": "40f79bad1d94c06b2fe3678a0bc59f972ba4d5c5477ef80ecddd61f923f454a2",
@@ -2057,7 +2087,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 07 Mar 2024 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253900+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671905+00:00"
   },
   {
     "id": "bb488cef5e1531098a09f8c7e5113269b5b574de42686f1cf62aafd9dc091151",
@@ -2067,7 +2097,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Thu, 06 May 2021 16:33:11 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856300+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319916+00:00"
   },
   {
     "id": "7937f0049df4cfe5595a95ec35e5b4d180002e1a044a0ddd68f681885539672b",
@@ -2087,7 +2117,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253371+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671403+00:00"
   },
   {
     "id": "f701ffa288c6c28aa26719001caee080c075887c7e0505ce0648d08b77c3f2c4",
@@ -2097,7 +2127,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254175+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672117+00:00"
   },
   {
     "id": "0a61db5c605a01d5693dd309d6766b898dc84f0922ad74f1722f567d234069f5",
@@ -2107,7 +2137,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254129+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672079+00:00"
   },
   {
     "id": "7868a8167f3dfeb737eadbe9112da96f9ed71bb889f5f3d4d45026a543cb5b0e",
@@ -2127,7 +2157,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 04 Sep 2025 09:06:37 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211729+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442546+00:00"
   },
   {
     "id": "8b0920f265a4cfb918ae4f66b2f431a0f7ee807acf1aa61b04c103fdd8743a10",
@@ -2147,7 +2177,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210817+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440735+00:00"
   },
   {
     "id": "2328af903c3edfb659af3269c62fc68a23da9a687069c3dc11f9d6622908eda2",
@@ -2157,7 +2187,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 03 Jul 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254356+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672285+00:00"
   },
   {
     "id": "8fb54ebb62b6d89e2bc8d83c485ba1917d9614c4dcb8751800c83903cb434c39",
@@ -2177,7 +2207,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253386+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671454+00:00"
   },
   {
     "id": "97fcecf3359ede941d8b8bdf3e222c50b1a4406b7912bc39a5b16dc1f5362283",
@@ -2187,7 +2217,17 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254144+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672182+00:00"
+  },
+  {
+    "id": "4923547e7c5d44130643f8a09125fcecd7a3e2f7c60a58d9511792d4bd863fd0",
+    "title": "Central Bank of India Apprentice Admit Card 2026, Information Handout Released - Career Power",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUJKNGJkbTZHMm1OS29xalhRWTdvQkN5TXBobElUajk4ZXlXV1NaN09iQS01dTZBRVVQN19CNlRqLUxxYmc3ajhleHdUdlZfLUdqbDdiUlQtZDM5eEJ1NWZxZTNBTU1VeEZ6azl5cTQzZWQ2ZDhrdVhSVDl4Q3VZVWlFN3VLazdEcklLSQ?oc=5",
+    "description": "Central Bank of India Apprentice Admit Card 2026, Information Handout Released Career Power",
+    "category": "Apprenticeship",
+    "source": "Google News Apprenticeships",
+    "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:52.672248+00:00"
   },
   {
     "id": "83696acd52c10185fd8083bc5dcfeaf4ca18ef607be2843f0bf10205e814b2b0",
@@ -2197,7 +2237,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253436+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671530+00:00"
   },
   {
     "id": "1a9ae44888b112c5e17dc0b618db1bf8217c345f976bfe2754d65dbece93f05e",
@@ -2207,7 +2247,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254241+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672170+00:00"
   },
   {
     "id": "9fdf6c8c78bc0ba6aa08c31aa22d0ed0c9354cef1b70ed6d7d2009e050db13b0",
@@ -2217,7 +2257,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Thu, 01 May 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527188+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858754+00:00"
   },
   {
     "id": "ac3cb74f2b47663c13a790fd25c41c0bb3f4f1a118ce6a5ba42b89ee8583bbab",
@@ -2257,7 +2297,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sun, 25 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210947+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441595+00:00"
   },
   {
     "id": "ebfc3ed29d52b98436584141503f5c123ab3f74104fff84b854dc8c1ed376752",
@@ -2327,7 +2367,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Sun, 02 Apr 2023 21:02:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856248+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319845+00:00"
   },
   {
     "id": "513402cdb5637d5187c37fc0051edc28e6fea7d24f1d886da64ed0d8907b102c",
@@ -2337,7 +2377,17 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Sat, 31 Oct 2026 11:14:54 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253466+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671515+00:00"
+  },
+  {
+    "id": "1eb7f8cf3e05f228f4aca0fdf225faa15c3edfa1d1667cf0ea1b0eb4bd3cacce",
+    "title": "CONCOR Exam Date 2026 Out for 77 Management Trainee and Assistant Officer Posts - Adda247",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdWd5SUFCN29ObVJrSmNlMUdoQlJfMGZzQW5QaWxycUpiMWhVaFlqY09ISmRTczM0MDZnZ0dCR1p1ek1veU1ZUVZUWEd6cnBfNGJvTlRkMzhhOU5kWlZNd2laMA?oc=5",
+    "description": "CONCOR Exam Date 2026 Out for 77 Management Trainee and Assistant Officer Posts Adda247",
+    "category": "Private",
+    "source": "Google News Private Jobs",
+    "published": "Sat, 31 Oct 2026 07:00:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.859081+00:00"
   },
   {
     "id": "7506ce18b8c7626f35027e9e0b8bf056e8b58a4bf1922997a4b04e3d02c02bff",
@@ -2347,7 +2397,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Sat, 31 Jan 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253789+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671779+00:00"
   },
   {
     "id": "1d86365f69ad878eed3946dd9c75aa8f441fe35b05fe423f84923aebe7aff506",
@@ -2357,7 +2407,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Sat, 28 Feb 2026 12:16:51 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856026+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319581+00:00"
   },
   {
     "id": "d3c060aef266164d9a7ba5fe6dd0f1093ffe0ae1deec602cbbfc9d0d82322ca3",
@@ -2367,7 +2417,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Sat, 27 Dec 2025 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253642+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671719+00:00"
   },
   {
     "id": "66349036d2f037414faadf66dbe0706d77d06b028525fe33876bc2d06fe2d052",
@@ -2397,7 +2447,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 22 Oct 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211020+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441663+00:00"
   },
   {
     "id": "f9b7f2b7a7a6c6dc967bed3de5a374a985683db8451ff42c1d4ca2e6f9f3103a",
@@ -2407,7 +2457,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 22 Mar 2025 03:49:28 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211827+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442730+00:00"
   },
   {
     "id": "ff7661fbf4fc2116766c4442efb42039ee25b8a66013f5962831653a6613e15f",
@@ -2417,7 +2467,17 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 11:40:38 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211071+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441808+00:00"
+  },
+  {
+    "id": "c338b395230efaf028ff6ffc63e0b15a4179bb72d8f9d36a317830cf3729e23f",
+    "title": "DHS Madurai Recruitment 2026 – Apply Offline for 62 Contractual / Temporary Staff Nurse Posts - FreeJobAlert.Com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGtJbURwRk5zd2ZJUWF6VW5FdTRWalJyVzhVMUFTdEticmROMXRCZDl1Vzd6YnBMejhaY2tPOGNWZUNVaV9fNldnSnE2X0VuWFRXTlZUSUlNSHpFOVNiVTNvZWhlSWc2V3ZNeHZtbVVwcHVLZXpSN0xLckhLT2xHbDN3TVVvZ3Z1T2NoLWw2SWFmbjZPTlNnNjN4bWVnb0Mxb2NBYkV2ZjJmeHdO?oc=5",
+    "description": "DHS Madurai Recruitment 2026 – Apply Offline for 62 Contractual / Temporary Staff Nurse Posts FreeJobAlert.Com",
+    "category": "Government",
+    "source": "Google News Government Jobs",
+    "published": "Sat, 21 Nov 2026 10:40:14 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.441999+00:00"
   },
   {
     "id": "e1b601262e2df06065d5d323fe0c6fec4bdb51bddced0cb7f5c76cf0a6c3cc84",
@@ -2427,7 +2487,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 10:10:24 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211087+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441790+00:00"
   },
   {
     "id": "84f12ccdb5443626408e8c370fd47629e70a2b5871f3a6255e77fc28abc110f8",
@@ -2437,7 +2497,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 09:10:34 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211104+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442023+00:00"
   },
   {
     "id": "9f8f2844a31585087583b7b506a22803455b782f44bbf35fcdffe600a2893b8c",
@@ -2457,7 +2517,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 08:29:46 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211121+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442039+00:00"
   },
   {
     "id": "37710ec629d33bec8cb4de5f80d0771f693e3edf9fbe97018de9feb7029df561",
@@ -2467,7 +2527,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Sat, 21 Nov 2026 07:52:49 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527556+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859258+00:00"
   },
   {
     "id": "b398ce7e42b87d995f0d222f9e5335fcd80a684dcaf764655e32030cbc8a9aa9",
@@ -2477,7 +2537,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 07:30:19 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211137+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442052+00:00"
   },
   {
     "id": "a773db6cb5ce3bc354d9bbd2b6e51d2c712a712e54e3b4cd19acc5079bda06e1",
@@ -2487,7 +2547,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 06:49:24 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211199+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442082+00:00"
   },
   {
     "id": "36c10f9155d7f6d6f4fc08950a5187ae7f8367f67e5e31bb22cf670bef5fd853",
@@ -2497,7 +2557,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 06:47:28 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211215+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442111+00:00"
   },
   {
     "id": "604a2e939e6f83b6a31dca297cf4ced958770f300695f6df7a91004e42c6c5a6",
@@ -2507,7 +2567,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 06:44:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211182+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442069+00:00"
   },
   {
     "id": "b602a91461f0349cdc7f404ca46fe6f17cb6430dc729998df2a8e49c2c324ad4",
@@ -2517,7 +2577,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Sat, 21 Nov 2026 06:40:41 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527573+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859236+00:00"
   },
   {
     "id": "5eacba32236e16ab176a64ca8711e79ef15761fd80b63192c82943dec17f6588",
@@ -2527,7 +2587,17 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 06:00:21 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211263+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442173+00:00"
+  },
+  {
+    "id": "97563d0ece3411b69a786790f0181f575b3295db0fffdc978d07391760ae5ec8",
+    "title": "CRSU Jind Teaching Recruitment 2026 Out - Apply Online for 68 Professor, Associate Professor and Assistant Professor Posts - FreeJobAlert.Com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1pOVmVhQ1d6b3ZyNnZZdEFUVnp5S0cxeHpuZUZMQk9uUWRNanFWb0Ftc3lWZ0tOWlItNUpENldsM1A0cVZ4VDl5ZUVRYTJWWkI5NnNWUmxTenQwTFRGVWNieFROOU5VdUM3ek0tX1ZoWWRYV1Q5ZWV5MVhFZV9LM3p3?oc=5",
+    "description": "CRSU Jind Teaching Recruitment 2026 Out - Apply Online for 68 Professor, Associate Professor and Assistant Professor Posts FreeJobAlert.Com",
+    "category": "Government",
+    "source": "Google News Government Jobs",
+    "published": "Sat, 21 Nov 2026 05:51:38 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.442214+00:00"
   },
   {
     "id": "eed670804e54160c767eb644fe2ed8045f97606c15d72ca1dd1083c0b2811fa5",
@@ -2537,7 +2607,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 05:10:22 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211246+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442098+00:00"
   },
   {
     "id": "7151d2f01daa3132b3df2dfbd6dcd4bc508f86693c437ed0776dfd7c8407a91a",
@@ -2547,7 +2617,17 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 21 Nov 2026 04:49:51 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211280+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442197+00:00"
+  },
+  {
+    "id": "2fbdbc044b37d0f3f62fc6fe44d8a914a1e88474996f40d64fec24a812cac042",
+    "title": "TN NHM Staff Nurse Recruitment 2026 – Apply Offline for 1,695 Posts - FreeJobAlert.Com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG40Sk00TkF5Nzl1RjlsYzF2SFJJOXdZdmhSRHEzQlp1N25Mamc0c2l3eklqNlZvWjdVN1ZFUkV3alY5eEZEcF8tU2lycVp4V1hFZVJyRC1sMTgwbnU4dFVWYnB3S0FpMmFNeUlFeC15WTZVeXlJbDRMZWhDMUFLSGtRbVFNTUpR?oc=5",
+    "description": "TN NHM Staff Nurse Recruitment 2026 – Apply Offline for 1,695 Posts FreeJobAlert.Com",
+    "category": "Government",
+    "source": "Google News Government Jobs",
+    "published": "Sat, 21 Nov 2026 03:53:49 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.442313+00:00"
   },
   {
     "id": "4634c5c7fc87d63898056c6e20b4bad2af2286637eab9388e558906125a41234",
@@ -2557,7 +2637,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 19 Sep 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210770+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440350+00:00"
   },
   {
     "id": "a725a616ae36c347856045fdfe7dcf142ff1e674202c1508a8a1311f30bf515a",
@@ -2577,7 +2657,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Sat, 18 Jan 2025 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856108+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319718+00:00"
   },
   {
     "id": "31a8e719b8742fe0dfc65f28736bf48a23dc617949477eb705ec9c309371128d",
@@ -2617,7 +2697,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Sat, 12 Oct 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856235+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319835+00:00"
   },
   {
     "id": "5ea18f128973657261717ac2c3c51f14325476603c065beabef8f372705fd6cc",
@@ -2637,7 +2717,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Sat, 11 Dec 2021 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253933+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671930+00:00"
   },
   {
     "id": "0392187017041cc769af155700bff32420610af4eda97120701299b6c4ff82de",
@@ -2647,7 +2727,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211695+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442519+00:00"
   },
   {
     "id": "43a3d2ee69fdb0429a4741d6d748edc21f5e54f51fcc995b310ae362b9d8464c",
@@ -2667,7 +2747,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Sat, 07 Mar 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527457+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859098+00:00"
   },
   {
     "id": "86741fbf7a5ac4fdbb5dbf906fca45add677ede7244bf4b88829af37b706094c",
@@ -2687,7 +2767,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Sat, 04 Oct 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527154+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858964+00:00"
   },
   {
     "id": "fa0fa3f539960612bfff945b57ea0ce284079fe1985411ff1f6306d544111662",
@@ -2697,7 +2777,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 03 Sep 2016 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211588+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442504+00:00"
   },
   {
     "id": "23f69880f58a6b75194bbc531bffc028cb96711417f32ada87b50361dcb212f2",
@@ -2707,7 +2787,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Sat, 03 Aug 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211002+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441648+00:00"
   },
   {
     "id": "a06432a4a89ed2e7440008661b43d97f75d5bad9ea7f8baf8c42c3f0089f9cb5",
@@ -2717,7 +2797,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Sat, 02 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253658+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671731+00:00"
   },
   {
     "id": "421d6cc4e5fc0ea56d3c6bcb22eeaa620fb7891ac3a69df519534a672e9bce77",
@@ -2727,7 +2807,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253528+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671619+00:00"
   },
   {
     "id": "d2914912ab7c59c6422f94601f9e50a17cf683e4e42355064639a912f6074585",
@@ -2747,7 +2827,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253252+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671345+00:00"
   },
   {
     "id": "e4bdccea87f791567483285240bbbd47564522c032df1142b6b913fec6a78cc5",
@@ -2757,7 +2837,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253271+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671360+00:00"
   },
   {
     "id": "2405bc76e50b7102fe00321ffa5139e2a4e14e23b48b9c239a9c0bc59215db5e",
@@ -2777,7 +2857,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253703+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671429+00:00"
   },
   {
     "id": "11af205f2ed950495020350ba1ff3982af5f057f8cb6a69235f25e8620e2e899",
@@ -2787,7 +2867,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 25 Nov 2024 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527335+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858983+00:00"
   },
   {
     "id": "7cd30fb20db637e4c1b695d3c22a635a5a9cb2255a6892518217e63a2647ce87",
@@ -2817,7 +2897,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210751+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440194+00:00"
   },
   {
     "id": "19e2a2ce01140de8befffeee71925dfc9c73198c0cb5c8212d9716308272adac",
@@ -2827,7 +2907,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 22 Sep 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856317+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319933+00:00"
   },
   {
     "id": "0671c7be37ccc48004939a797fcaa30652f786b0fa14e2e75dc6742dfa401c1a",
@@ -2847,7 +2927,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210802+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.440628+00:00"
   },
   {
     "id": "a04c99320186c98e7d18da5eab9f743a2ae29ea0a0158ad5db6d021e9a09c48d",
@@ -2877,7 +2957,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 22 Jun 2026 00:16:10 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527376+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859024+00:00"
   },
   {
     "id": "2d71b2eca8c57958e7951f0441f82b887c6cfda4c7d0f2776ce1300a07e88b01",
@@ -2887,7 +2967,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 20 Sep 2021 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856470+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320051+00:00"
   },
   {
     "id": "cc65b302f8009eac8aec7c8066fa12b9dbb17a671fb072244a50fbb2970182cb",
@@ -2917,7 +2997,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 20 Jul 2026 06:43:56 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210704+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439857+00:00"
   },
   {
     "id": "87774f94f16b69e73270abd3270ac2ef36d8458bf6b11adad6b546ab1bfdb2a8",
@@ -2927,7 +3007,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527470+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859114+00:00"
   },
   {
     "id": "1f12ff55f5727b5b606d3196cfdef2bca93808c201004b5b94e40aeace703221",
@@ -2967,7 +3047,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 18 Mar 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527262+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858823+00:00"
   },
   {
     "id": "064952a25b3ec1f30cc5f8eefbab5cd5e28c52c6c19f8a4994d295dc5afa86ed",
@@ -2977,7 +3057,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527359+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858593+00:00"
   },
   {
     "id": "f715d4f83d3d3a25f0a74a8eb0d6d9d5fddf7b9075c491251393f9cc822a1015",
@@ -2997,7 +3077,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 16 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211294+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441820+00:00"
   },
   {
     "id": "af78f9c465bb2f2a7bd700e5e743858125902402f8021162aa54a7712df9f7e7",
@@ -3007,7 +3087,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 16 Nov 2026 06:35:31 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855847+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319513+00:00"
   },
   {
     "id": "86d1ca4b048077617a1f372fad7fb4b4e981a6ae60d82fe86afb5d5ff2aa3be6",
@@ -3017,7 +3097,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 16 Nov 2026 06:32:35 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253193+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671297+00:00"
   },
   {
     "id": "74f1dabe68ddc7e9dcfb56d1893a689e200ba8c1e802fdeb9c4f6f16b15027ce",
@@ -3027,7 +3107,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 16 Nov 2026 06:09:44 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253232+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671313+00:00"
   },
   {
     "id": "6fda27840ef38b7def7a450ed87969090ececf9c729c803d50431b1e48c3974f",
@@ -3037,7 +3117,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 16 Nov 2026 04:18:58 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254059+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672053+00:00"
   },
   {
     "id": "80e5e15fc0690f944aedb0fca1b25b81d987508e0d7349d8921522cc5bc71292",
@@ -3057,7 +3137,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 14 Oct 2024 08:14:46 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253916+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671917+00:00"
   },
   {
     "id": "8a84343a5a72f87ada501382e192de757637769b237817e70eb607842ae5cc51",
@@ -3067,7 +3147,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Mon, 14 Oct 2024 05:45:27 GMT",
-    "fetchedAt": "2026-11-21T05:25:06.111319+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859180+00:00"
   },
   {
     "id": "7e0360bbb89cfe47178cb44496f69a83545b308c801e961f1b244f65fd3dd112",
@@ -3117,7 +3197,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 11 Nov 2024 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210786+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441540+00:00"
   },
   {
     "id": "d5471c16b74bf902a93498992463fc4637761c53dad7f48805520010e72583d1",
@@ -3137,7 +3217,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254259+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672261+00:00"
   },
   {
     "id": "3df5da51c07a334fdd4aa07eab15093210f55aef39d653055f3d70eee01d6ce8",
@@ -3177,7 +3257,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 09 Sep 2024 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210966+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441613+00:00"
   },
   {
     "id": "c07638e50da08ef823725946dbf86e4aff03e176ed07fc6313cb7ceeb5c87338",
@@ -3187,7 +3267,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856087+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319687+00:00"
   },
   {
     "id": "9b1504c5ed09932264c0917dbe4146456eec8e382f17e9e947124fac39a501c6",
@@ -3197,7 +3277,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 08 Mar 2021 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211054+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441758+00:00"
   },
   {
     "id": "811b42d9be511b3baa8018f15a3583bce1ebc06c15d6e3b466c8f09802c5241d",
@@ -3207,7 +3287,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 06 Jun 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856191+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319799+00:00"
   },
   {
     "id": "7174472219698cc313fe3625a0bbef3c4eefe7f74c1303be132a6680b126459d",
@@ -3227,7 +3307,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253480+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671578+00:00"
   },
   {
     "id": "12c31fcd8b438e11270d401c11fc46d14066a5916592c8bbff69703158d64c7b",
@@ -3247,7 +3327,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254292+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672197+00:00"
   },
   {
     "id": "b3095f3fa908985f48bae6537a322d6182bc3f61f4074471cbbe68fad83e12ab",
@@ -3257,7 +3337,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Mon, 04 Nov 2024 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856266+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319860+00:00"
   },
   {
     "id": "e9d32f52b478da11a1d1c5f13a9b23d6876b7bd2b8c9660e5f2f3dcfcb52929f",
@@ -3277,7 +3357,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 02 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254024+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671993+00:00"
   },
   {
     "id": "d1a97f8f31dae4215ad017e0c6b7acbe7a534690c2faeeac9cf7ff4b2a87f1c9",
@@ -3307,7 +3387,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Mon, 02 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254112+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672092+00:00"
   },
   {
     "id": "c28de5c7803dd7a4f8e48ec73cebd08e27b8066ab05c1d7e1768793ef758cffc",
@@ -3317,7 +3397,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210900+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441461+00:00"
   },
   {
     "id": "8d5806cd3df969c99fe926228fe305b55d1b5eb632e32724d0ed3ff55838c619",
@@ -3357,7 +3437,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253496+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671554+00:00"
   },
   {
     "id": "74656636067d92a481e0668091ebf098a12ea3408c04e4e1460d6b6e270f1ccd",
@@ -3367,7 +3447,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 31 Jan 2025 06:26:08 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211846+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442747+00:00"
   },
   {
     "id": "980a7d7fb08e30935d9e79bd35f4ed12a542691cd0ea23b48495df2fb3bdc4d8",
@@ -3377,7 +3457,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254326+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672156+00:00"
   },
   {
     "id": "609f0d98acffbc3f7362032b1b05817f329c989f77219d94c72a27b0722574eb",
@@ -3387,7 +3467,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210682+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.439756+00:00"
   },
   {
     "id": "64444d05d33a473e06bfa395cc75394ca963ce1328a387864c48e7f9b4f115b0",
@@ -3398,6 +3478,16 @@
     "source": "Google News Private Jobs",
     "published": "Fri, 30 Jan 2026 08:00:00 GMT",
     "fetchedAt": "2026-11-20T19:33:53.711239+00:00"
+  },
+  {
+    "id": "c1bad0b2c08fa5b2fb3a4815f7056c536709a97fd0a6084c778af11e50f3ba3d",
+    "title": "Government job applications to track this week: RBI, SBI, RRB, IOCL, BSNL and more - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaEEtNEtxa0JKTFdUTE9wblVJNFFVOXNvZllRU0dtNHFVcEhZQy0zMlNtWG5xb1k5TXpVYmsyYkpXaXhRTFdYdHFQUFFjTDdxN1FZYW1SQkFobG9kM2o3LXhvUXlvM3VkdU4xaTVkUHZZRGZheHVLVGNTMV9QMVd1ZnJrNU5pVnVBOFNtcm5MWHhZaWcwRC02LU1hZGgxbkMzVGJTZGlGTWd0cUVQR3JkZGxSaERBS0pza2liU0w0RGpCSFNubFVKZkNVRHY2RzRGNGV3ZHkwTTVjZmN6bHlNNG9Ydk00VWUxM0HSAe8BQVVfeXFMUENhM3NrODUyX2l1WHpYOEpYWWY3aDd5QXJIeEdWVDlEdXh2MTNlTkk0eTRUblNsNVpTNWQtSjRqODAwRVV6S3piUGxLQjlWYWlXUV9PZzJYWVIxNHlPaDhLT1pSamNuR1FtQWZmUURsdjIwZE42T1BEaEgyRkpiQ3JpczVpMGVCOFQtamNKNWN1eGpUS24tMHdacnFSV3JHazI3WXZhTDJyT0VadXJwdnVWdUU3V0tjdGJJbmtuM0VERHpXN0E3WFhjT0FsMVRvWUdCeWM1dXQ5TlQ3WHExTVJsdUx2aFpiWlZIMW5LMVU?oc=5",
+    "description": "Government job applications to track this week: RBI, SBI, RRB, IOCL, BSNL and more The Times of India",
+    "category": "Government",
+    "source": "Google News Government Jobs",
+    "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+    "fetchedAt": "2026-11-21T22:43:51.440527+00:00"
   },
   {
     "id": "d6c9e0a7af50b1b0f7b6ecad617ebf5bd0d23b511ae86bf51d025d8eb7f7da18",
@@ -3417,7 +3507,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 29 Aug 2025 09:43:30 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211746+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442559+00:00"
   },
   {
     "id": "4692e1b8fc6a92f390efecd45d22482054bd3066138c0b9a3bfbe8bf8991d652",
@@ -3437,7 +3527,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856041+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319594+00:00"
   },
   {
     "id": "a72f1a8c5a5247751d98d15b1b483a0a48391593b89bfedb1cf28baa0d52c82a",
@@ -3447,7 +3537,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254341+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672273+00:00"
   },
   {
     "id": "7ca6602eea83f1bf9b75bd7cdc612ad0ce587647073409265ab60db5fefd943d",
@@ -3457,7 +3547,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210854+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441076+00:00"
   },
   {
     "id": "76454d920b8e7873859831d6e73cf3483ca833e88973eb1411533c6657afedda",
@@ -3467,7 +3557,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855952+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319619+00:00"
   },
   {
     "id": "897f33f8ee3b9f405452cde6d78f49703ad859126fe73c51429ef1f10687e543",
@@ -3487,7 +3577,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 21 Mar 2025 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856074+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319702+00:00"
   },
   {
     "id": "9bbbd1a26a7ab36429c0e9a024484d5fd21de99aee875155f60de1cb9f3cb6aa",
@@ -3497,7 +3587,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 23:20:24 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211229+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442242+00:00"
   },
   {
     "id": "e976c81e605877d8002cb7f09b6d6aa9508ce41dc3f264e94e5f6503aebe08e2",
@@ -3507,7 +3597,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 23:10:18 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211151+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442226+00:00"
   },
   {
     "id": "b40bf5b213d741d69038ef1c8864f0dcc11e3c8b00f0c0d8826e8b3b181080fb",
@@ -3517,7 +3607,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 18:10:32 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211325+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442415+00:00"
   },
   {
     "id": "65c66f150e8ef33c5023c9ac88e25016b2a2defdec913a6fef768bf8f9bbbf14",
@@ -3547,7 +3637,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 13:00:32 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211422+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442285+00:00"
   },
   {
     "id": "8ad15033b29b669d173b3ba1452c57fc80d6dc7b299d12405edfe55cdbdc43cc",
@@ -3601,13 +3691,13 @@
   },
   {
     "id": "d397df12abe9ecad263c45fd8c9ddf8997967cc549057a69d76b3fa59435f87b",
-    "title": "ICMR Scientist-D Recruitment 2026 – Apply Online - FreeJobAlert.Com",
+    "title": "ICMR Scientist-D (Non-Medical) Recruitment 2026: Apply Online - FreeJobAlert.Com",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGFVVGhlUkFScS1oS2UzeUJ4SjRFZ3hReDgxaHlTTWdxMU1uc0dKSDZ3eFEzbEYxbm1VOVcyYmM2alBSc1NNSDhUajEzaWl2R0N2Y0RfbW9Ic3pxNzcxZkUyMXlMQUQxeVNBanF3QTFPbHJvaDVrT2EzT0MzQllsS3VVemYzRXY0S1BINXhxM1h1SFVhR0E?oc=5",
-    "description": "ICMR Scientist-D Recruitment 2026 – Apply Online FreeJobAlert.Com",
+    "description": "ICMR Scientist-D (Non-Medical) Recruitment 2026: Apply Online FreeJobAlert.Com",
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 10:30:32 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211405+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442338+00:00"
   },
   {
     "id": "2d40f5046fd71e8f151fe6c05e226248751794898e0c28b8e4c72dd8c73a8081",
@@ -3637,7 +3727,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 20 Nov 2026 10:07:35 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855886+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319545+00:00"
   },
   {
     "id": "f46921306b45364c7254024cc8ae98a8447faf1a6b71f0506c8e105d8f8a6468",
@@ -3667,7 +3757,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Fri, 20 Nov 2026 09:58:48 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527509+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859162+00:00"
   },
   {
     "id": "8d18f85da546e9a498920f53acf89b0fe71bac6b8c9bc12ab5f3918979658444",
@@ -3697,7 +3787,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 09:30:30 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211344+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442300+00:00"
   },
   {
     "id": "d281ef36761a045dfd8c99365bc4f22a8f7bec6805bfbc715f9a8a3762855102",
@@ -3707,7 +3797,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 09:01:11 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211641+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442478+00:00"
   },
   {
     "id": "afbb3961576593809ffebb7ce313ac665bf918eee1437516b4f71f264e506167",
@@ -3717,7 +3807,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 08:51:07 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211377+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442271+00:00"
   },
   {
     "id": "58a316ea856981000ec3da1576eed193d1bae7f8c5e1ed9977afecccff907011",
@@ -3727,7 +3817,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 08:40:23 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211556+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442389+00:00"
   },
   {
     "id": "1eb473da8f03d8bc22c65b4b0ae2e8750585b9741bfd0ffaa760293c2472f6cd",
@@ -3747,7 +3837,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 08:20:14 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211483+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442350+00:00"
   },
   {
     "id": "a945da3f34c1ae84efa1eb4e6d4478aca656253ecffd841740201e2dd694488a",
@@ -3827,7 +3917,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 05:32:34 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211606+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442463+00:00"
   },
   {
     "id": "47c9dee4cc99d77258ef681a7d3f97d866154b3687fbfac42de7b80f8c5c77a2",
@@ -3847,7 +3937,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 04:40:26 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211501+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442364+00:00"
   },
   {
     "id": "320c4666ba733a5edb90a71d7e6828d163b4f0e0925e3f6c06a1472be9dc6b0d",
@@ -3857,7 +3947,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 20 Nov 2026 04:31:48 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.211526+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.442436+00:00"
   },
   {
     "id": "b02ab6ee6ef199c02afe48a0d8ee11047dc1ad0ad13d148d044fdbae1841f945",
@@ -3887,7 +3977,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 19 Jun 2026 10:32:51 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855969+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319556+00:00"
   },
   {
     "id": "4b6313ddb1498d164da231422545b3a67e4035d16d705c5dcd117ec3fe4f88d5",
@@ -3897,7 +3987,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 19 Dec 2025 10:23:04 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.253851+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.671891+00:00"
   },
   {
     "id": "a6805e3ddd5d8a7c2d7f5580fc6d31ceb8a1ec37de60aec65074f2a8b1edeabc",
@@ -3917,7 +4007,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 17 Jun 2022 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856285+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319902+00:00"
   },
   {
     "id": "44e7abc501f5b105b0c5dfc329882f19acd505889ec3af2c29ee9d7c54f159f4",
@@ -3927,7 +4017,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856486+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320064+00:00"
   },
   {
     "id": "7f7cc8f281700ec126ec744bb4fd35e101e571db6190adaa3d0ee40dc88c5f0d",
@@ -3977,7 +4067,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Fri, 14 Nov 2025 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527412+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859001+00:00"
   },
   {
     "id": "db02c2c42835e7e0798daf5cb2ebd44e8195307afec8ee061a715147952872a8",
@@ -3987,7 +4077,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 14 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.855901+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319485+00:00"
   },
   {
     "id": "161d1033e66b716a34c0451c6648d7652eeb7956444e3bc3c024d2193d541e17",
@@ -4017,7 +4107,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 13 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254043+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672023+00:00"
   },
   {
     "id": "21fffa4247d005e69edad87a1a1b1cf84a5047c97a7532f20842e57146ba57f9",
@@ -4027,7 +4117,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 13 Mar 2020 20:37:58 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856415+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.320001+00:00"
   },
   {
     "id": "fd5eaebf7b4c37682f12f08c18ef775c53f54240f28e82e1e2d027a24a507ccb",
@@ -4037,7 +4127,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210984+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441631+00:00"
   },
   {
     "id": "a2a8953be3bb6aaaab59718a924874dafa85bfa62a86533255cef9c83e48dcbc",
@@ -4057,7 +4147,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527106+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.858691+00:00"
   },
   {
     "id": "21f40d2d92e35981da36b8be9df35ffcdb13cafe76dc81d8ef4abd5dd417ed2f",
@@ -4067,7 +4157,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 12 Jul 2024 15:23:17 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856221+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319825+00:00"
   },
   {
     "id": "3dc97226434324002b5ca6b7ca80e093f9f133cddea8352c9bbbd5f15a55ed4e",
@@ -4087,7 +4177,7 @@
     "category": "Internship",
     "source": "Google News Internships",
     "published": "Fri, 10 May 2024 07:21:20 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.856138+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.319757+00:00"
   },
   {
     "id": "c4bf88c936758c8e0a81392a96bd283f2d003d9ec87e3e70a93509f8a318dea7",
@@ -4107,7 +4197,7 @@
     "category": "Private",
     "source": "Google News Private Jobs",
     "published": "Fri, 08 May 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.527483+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.859129+00:00"
   },
   {
     "id": "707708c3c6406ce66dec947ee7fdfc58cae6874e0a6ce9a8fedd2307f48cab79",
@@ -4127,7 +4217,7 @@
     "category": "Government",
     "source": "Google News Government Jobs",
     "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:40.210869+00:00"
+    "fetchedAt": "2026-11-21T22:43:51.441280+00:00"
   },
   {
     "id": "65aadc49055e6be48d6f4cc5d3a39353f1dd83edb01410ce0a468992ed9686c9",
@@ -4137,7 +4227,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254076+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672066+00:00"
   },
   {
     "id": "5967df04c6af9e5b3f1722439507945f02f9dff3ddb953cf8852e58699e6f2dc",
@@ -4147,7 +4237,7 @@
     "category": "Apprenticeship",
     "source": "Google News Apprenticeships",
     "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "fetchedAt": "2026-11-21T14:06:41.254193+00:00"
+    "fetchedAt": "2026-11-21T22:43:52.672144+00:00"
   },
   {
     "id": "02e17009557c40e7be8303152bbbd6ab82d4651b7ae13718c9fdcfdbaffe3826",
